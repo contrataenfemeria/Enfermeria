@@ -1,0 +1,26 @@
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
+form {
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/enfermeria-75e89.appspot.com/o/imgFormulario.jpg?alt=media&token=76355c98-75f5-4d44-8342-e4bdaf22f4c0");
+    background-size: cover;
+    background-position: center;
+
+}
+
+.form-container {
+    background-color: rgba(117, 200, 181, 0.938); /* Color de fondo con opacidad */
+    padding: 20px;
+    
+}
+
+#contenedor{
+    margin-top: -38px;
+}

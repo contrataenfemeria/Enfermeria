@@ -1,0 +1,15 @@
+.banner{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/enfermeriasab-4b787.appspot.com/o/GrupoEnfermeria.jpg?alt=media&token=8aafc33b-795f-49c6-87b1-4f55a684c6ae");
+    background-position: top center;
+    background-size: cover;
+    padding:25%;
+    background-attachment: fixed;
+    margin-top: 10px;
+}
+.banner2{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/enfermeriasab-4b787.appspot.com/o/grupoOperando.jpg?alt=media&token=10c53c0f-5197-428a-b025-37ef62a3c73f");
+    background-position: top center;
+    background-size: cover;
+    padding:20%;
+    background-attachment: fixed;
+}
